@@ -1,0 +1,149 @@
+body{
+    background-image: url(bgimage.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#main{
+    width: 700px;
+    height: 400px;
+    background-color: rgb(154, 130, 177);
+    border-radius: 5%;
+    margin-top: 70px;
+    margin-left: 180px;
+    
+}
+p{
+    color: beige;
+}
+#head{
+    color: black;
+}
+#sub{
+    color: black;
+}
+#left{
+    font-family: "Angkor", serif;
+}
+
+ul{
+    padding-top: 10px;  
+    padding-left: 50px;
+}
+li{
+    display: inline-block;
+    list-style: none;
+    padding: 0px 50px;
+    font-family: "Titillium Web", sans-serif;
+}
+#head{
+    font-size: 30px;
+    padding-left: 45px;
+    margin-bottom: 5px;
+}
+#sub{
+    padding-left: 45px;
+    margin-top: 0px;
+}
+
+
+#lname{
+    background-color: rgb(50, 36, 68);
+    position: relative;
+    top:-40px;
+    left: 180px;
+    width: 100px;
+    text-align: center;
+    border-radius: 7%;
+    font-family: "Titillium Web", sans-serif;
+}    
+#fname{
+    background-color: rgb(50, 36, 68);
+    position: relative;
+    left:45px;
+    width: 100px;
+    border-radius: 7%;
+    text-align: center;
+    font-family: "Titillium Web", sans-serif;
+    
+}
+#mail{
+    background-color: rgb(50, 36, 68);
+    position: relative;
+    top:-35px;
+    text-align: center;
+    left:45px;
+    width: 100px;
+    border-radius: 7%;
+    font-family: "Titillium Web", sans-serif;
+}
+#contact{
+    background-color: rgb(50, 36, 68);
+    position: relative;
+    top:-76px;
+    left: 180px;
+    width: 100px;
+    border-radius: 7%;
+    text-align: center;
+    font-family: "Titillium Web", sans-serif;
+}
+#msg{
+    position: relative;
+    left:45px;
+    bottom: 80px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    background-color: rgb(50, 36, 68);
+    height:110px;
+    width: 240px;
+    border-radius: 7%;
+    text-align: left;
+    font-family: "Titillium Web", sans-serif;
+
+}
+#submit{
+    position: relative;
+    left:45px;
+    
+    bottom: 85px;
+    background-color: rgb(65, 15, 71);
+    width: 80px;
+    border-radius: 7%;
+    text-align: center;
+    font-family: "Titillium Web", sans-serif;
+}
+img{
+    width: 25px;
+    position: relative;
+    right: 50px;
+    bottom: 20px;
+}
+
+#right{
+    position: relative;
+    bottom: 375px;
+    left: 670px;
+    font-family: "Titillium Web", sans-serif;
+
+}
+#info{
+    font-size: 25px;
+    font-family: "Angkor", serif;
+}
+#follow{
+    color: black;
+}
+#info{
+    color: black;
+}
+#line1{
+    color: black;
+}
+#line2{
+    color: black;
+}
+#line3{
+    color: black;
+}
